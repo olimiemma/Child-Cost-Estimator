@@ -17,7 +17,8 @@ HTML
 CSS
 JavaScript
 Getting Started:
-Clone the repository: git clone https://github.com/your-username/child-cost-estimator.git
+Clone the repository: git clone https://github.com/olimiemma/Child-Cost-Estimator.git
+
 Open index.html in your web browser.
 Future Development:
 Accurate Cost Calculation: Implement a more sophisticated formula that considers various factors like housing, healthcare, education, childcare, and more.
