@@ -3,7 +3,9 @@
 ```markdown
 # Child Cost Estimator
 
-The **Child Cost Estimator** is a web-based application designed to provide an estimate of the annual cost of raising a child based on user inputs such as location, annual household income, and family size. The application features a clean and modern user interface with dynamic result display.
+The **Child Cost Estimator** is a web-based application designed to provide an estimate of the annual cost of raising a child based on user
+ inputs such as location, annual household income, and family size.
+
 
 
 Child Cost Estimator
