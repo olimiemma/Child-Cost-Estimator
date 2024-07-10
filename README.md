@@ -1,4 +1,6 @@
+![Screenshot from 2024-07-09 21-16-00](https://github.com/olimiemma/Child-Cost-Estimator/assets/98601170/1153ee3e-b783-43c2-bd04-b045ec953a34)
 
+![Screenshot from 2024-07-09 21-15-07](https://github.com/olimiemma/Child-Cost-Estimator/assets/98601170/fd95009e-75b1-4957-8c51-e7cb9ebd135d)
 
 ```markdown
 # Child Cost Estimator
